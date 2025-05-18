@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> 👩🏻‍💻 I'm currently working as a back-end dev <br> 🔍 Tech Lifelong Learner <br> 📫 Contact me at: amandazved@gmail.com</p>
+<p align="left"> 👩🏻‍💻 I'm currently working as a data engineer <br> 🔍 Tech Lifelong Learner <br> 📫 Contact me at: amandazved@gmail.com</p>
 
 ###
 
