@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center">
   <h1> 
-    Hi, folks! Amanda here
+    Hello, folks! Amanda here
     <a href="#--about-me--">
       <img src="https://github.com/amandazve/amandazve/raw/main/gifs/bonequinho_rosa.gif" width="40px" height="35px">
     </a>
